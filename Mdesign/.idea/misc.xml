@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/drawable/ic_menu_camera.xml" value="0.38645833333333335" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.235" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/drawable/rl_background.xml" value="0.235" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/drawable/side_nav_bar.xml" value="0.38645833333333335" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/drawable/sw_background.xml" value="0.2385" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/activity_camera.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/activity_car.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/activity_main.xml" value="0.11331444759206799" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/activity_main2.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/activity_product_detials.xml" value="0.25" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/app_bar_main.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/car_item.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/content_main.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/fragment_gallery.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/fragment_home.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/fragment_slideshow.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/nav.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/nav_header.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/layout/product_item.xml" value="0.3" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/menu/main_activity2.xml" value="0.35520833333333335" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/menu/nav_menu.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/menu/toolbar.xml" value="0.3703125" />
+        <entry key="..\:/Android Projects/Mdesign/app/src/main/res/xml/filespaths.xml" value="0.3703125" />
+        <entry key="..\:/Applications/sdk/.gradle/caches/transforms-3/c2943c766a971b30133f49407ff21e60/transformed/jetified-appcompat-resources-1.2.0/res/drawable/abc_vector_test.xml" value="0.38645833333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

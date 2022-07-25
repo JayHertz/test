@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/nav_setting"
+            android:title="setting"
+            android:icon="@mipmap/ic_setting"
+            />
+        <item
+            android:id="@+id/nav_account"
+            android:title="account"
+            app:showAsAction="never"
+            android:icon="@mipmap/ic_alert_circle"/>
+        <item
+            android:id="@+id/Camera"
+            android:title="Camera"
+            android:icon="@mipmap/ic_camera_white_36dp"/>
+
+</menu>
